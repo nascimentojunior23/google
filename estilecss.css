@@ -1,0 +1,68 @@
+
+@font-face  
+	{
+	font-family: Granesta;
+	src: url("Granesta.ttf"); 
+	}
+
+body 	{ 
+		background-image: url(goo.jpg);
+		background-size: 100% 100%;  
+		}
+		
+		
+		b{
+		
+		color: white;  
+		font-size: 70px; 
+		font-family: "Arial black"; 
+		text-shadow: 0px 5px 5px black; 
+		}
+		
+		form{
+			
+			text-align: center; 
+			margin-top: 14.5%; 
+		}
+		
+.corblue{
+	color:#77a4fd;
+	font-size: 70px;
+	font-family: "Arial black"; 
+	text-shadow: 0px 5px 5px black; 
+}
+
+.corred{
+	color:red;
+	font-size: 80px;
+	font-family: "Arial black"; 
+	text-shadow: 0px 5px 5px black; }
+
+.coryellow{
+	color:yellow;
+	font-size: 80px;
+	font-family: "Arial black"; 
+	text-shadow: 0px 5px 5px black; 
+}
+
+.corgreen{
+	color:#80fd84;
+	font-size: 80px;
+	font-family: "Arial black"; 
+	text-shadow: 0px 5px 5px black; 
+}
+
+.inputtext{
+	width: 40%; 
+	padding: 0.5%;
+	border-radius: 20px;
+	}
+	
+.inputsubmit{
+	width: 20%; 
+	padding: 0.5%;
+	border-radius: 20px;
+	background-color: lightblue;
+	font-size: 16px;
+	
+	}
